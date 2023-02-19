@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nibbles and Bytes</title>
-    <link>http://example.org/posts/</link>
+    <link>http://lynshi.github.io/posts/</link>
     <description>Recent content in Posts on Nibbles and Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Feb 2023 21:55:07 -0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 21:55:07 -0800</lastBuildDate><atom:link href="http://lynshi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding EWD998: Shmuel Safra&#39;s version of termination detection</title>
-      <link>http://example.org/posts/understanding-ewd998/</link>
+      <link>http://lynshi.github.io/posts/understanding-ewd998/</link>
       <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
       
-      <guid>http://example.org/posts/understanding-ewd998/</guid>
+      <guid>http://lynshi.github.io/posts/understanding-ewd998/</guid>
       <description>Oh no, there are math symbols!</description>
     </item>
     
     <item>
       <title>Purging Azure CDN With GitHub Actions</title>
-      <link>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</link>
+      <link>http://lynshi.github.io/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</link>
       <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
       
-      <guid>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</guid>
+      <guid>http://lynshi.github.io/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</guid>
       <description>GitHub Actions allows you to automate purging Azure CDN so you don’t have to craft caching rules or manually enter the Azure portal.</description>
     </item>
     
     <item>
       <title>Automating Deployment of a (Gatsby) Static Website on Azure Storage with GitHub Actions</title>
-      <link>http://example.org/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</link>
+      <link>http://lynshi.github.io/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</link>
       <pubDate>Sun, 29 Dec 2019 19:46:39 +0000</pubDate>
       
-      <guid>http://example.org/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</guid>
+      <guid>http://lynshi.github.io/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</guid>
       <description>Read on to learn how to deploy your personal website to Azure Storage on every push to GitHub.</description>
     </item>
     
