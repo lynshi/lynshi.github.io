@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nibbles and Bytes</title>
     <link>http://example.org/posts/</link>
@@ -12,7 +12,7 @@
       <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
       
       <guid>http://example.org/posts/understanding-ewd998/</guid>
-      <description>I’ll soon be attending Markus Kuppe’s workshop on TLA+ and one of the pre-read materials is Dijkstra’s EWD998 - Shmuel Safra&amp;rsquo;s version of termination detection. I haven’t read a serious, academic paper since college like 3 years ago1, so it was quite an adventure getting back into the swing of things. As I was reading, I spent a lot of time going back and forth to make things make sense, because the hallmark of a real paper is that you can’t just consume it in one go if you actually want to understand the material.</description>
+      <description>Oh no, there are math symbols!</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
       
       <guid>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</guid>
-      <description>When you use Azure CDN to deliver content, you may need to purge your endpoint so that changes you make are sent to your users, as files are cached in the Azure CDN until their time-to-live (TTL) expires. If you don’t set a TTL for your files, Azure automatically sets a TTL of 7 days. Even if you set a lower TTL, your updates may not coincide with the cache expiration.</description>
+      <description>GitHub Actions allows you to automate purging Azure CDN so you don’t have to craft caching rules or manually enter the Azure portal.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Sun, 29 Dec 2019 19:46:39 +0000</pubDate>
       
       <guid>http://example.org/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</guid>
-      <description>I host my own static website on Azure Storage, and I got tired of running a script to upload my content every time I made a change to my website. After some Googling, I discovered GitHub Actions, made public about a month ago, which lets users automate how they build, test, and deploy their projects. Interestingly, though I found great guides for automating static website deployment to Azure using GitLab and building and deploying Gatsby sites with GitHub Actions, there wasn’t one guide with everything I needed, and I had to cobble pieces together from different sources.</description>
+      <description>Read on to learn how to deploy your personal website to Azure Storage on every push to GitHub.</description>
     </item>
     
   </channel>

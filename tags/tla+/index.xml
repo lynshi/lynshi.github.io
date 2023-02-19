@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TLA&#43; on Nibbles and Bytes</title>
     <link>http://example.org/tags/tla&#43;/</link>
@@ -12,7 +12,7 @@
       <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
       
       <guid>http://example.org/posts/understanding-ewd998/</guid>
-      <description>I’ll soon be attending Markus Kuppe’s workshop on TLA+ and one of the pre-read materials is Dijkstra’s EWD998 - Shmuel Safra&amp;rsquo;s version of termination detection. I haven’t read a serious, academic paper since college like 3 years ago1, so it was quite an adventure getting back into the swing of things. As I was reading, I spent a lot of time going back and forth to make things make sense, because the hallmark of a real paper is that you can’t just consume it in one go if you actually want to understand the material.</description>
+      <description>Oh no, there are math symbols!</description>
     </item>
     
   </channel>
