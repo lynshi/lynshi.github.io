@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Actions on Nibbles and Bytes</title>
+    <link>http://example.org/tags/github-actions/</link>
+    <description>Recent content in GitHub Actions on Nibbles and Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jan 2020 04:13:58 +0000</lastBuildDate><atom:link href="http://example.org/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purging Azure CDN With GitHub Actions</title>
+      <link>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</link>
+      <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
+      
+      <guid>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</guid>
+      <description>When you use Azure CDN to deliver content, you may need to purge your endpoint so that changes you make are sent to your users, as files are cached in the Azure CDN until their time-to-live (TTL) expires. If you don’t set a TTL for your files, Azure automatically sets a TTL of 7 days. Even if you set a lower TTL, your updates may not coincide with the cache expiration.</description>
+    </item>
+    
+  </channel>
+</rss>

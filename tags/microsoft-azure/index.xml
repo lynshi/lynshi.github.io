@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Azure on Nibbles and Bytes</title>
+    <link>http://example.org/tags/microsoft-azure/</link>
+    <description>Recent content in Microsoft Azure on Nibbles and Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jan 2020 04:13:58 +0000</lastBuildDate><atom:link href="http://example.org/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purging Azure CDN With GitHub Actions</title>
+      <link>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</link>
+      <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
+      
+      <guid>http://example.org/posts/@shilyndon/purging-azure-cdn-with-github-actions-1c18e2adaf18/</guid>
+      <description>When you use Azure CDN to deliver content, you may need to purge your endpoint so that changes you make are sent to your users, as files are cached in the Azure CDN until their time-to-live (TTL) expires. If you don’t set a TTL for your files, Azure automatically sets a TTL of 7 days. Even if you set a lower TTL, your updates may not coincide with the cache expiration.</description>
+    </item>
+    
+    <item>
+      <title>Automating Deployment of a (Gatsby) Static Website on Azure Storage with GitHub Actions</title>
+      <link>http://example.org/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</link>
+      <pubDate>Sun, 29 Dec 2019 19:46:39 +0000</pubDate>
+      
+      <guid>http://example.org/posts/@shilyndon/automating-deployment-of-a-gatsby-static-website-on-azure-storage-with-github-actions-c81a63b32a9a/</guid>
+      <description>I host my own static website on Azure Storage, and I got tired of running a script to upload my content every time I made a change to my website. After some Googling, I discovered GitHub Actions, made public about a month ago, which lets users automate how they build, test, and deploy their projects. Interestingly, though I found great guides for automating static website deployment to Azure using GitLab and building and deploying Gatsby sites with GitHub Actions, there wasn’t one guide with everything I needed, and I had to cobble pieces together from different sources.</description>
+    </item>
+    
+  </channel>
+</rss>

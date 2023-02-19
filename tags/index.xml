@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nibbles and Bytes</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Nibbles and Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Feb 2023 21:55:07 -0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed systems</title>
+      <link>http://example.org/tags/distributed-systems/</link>
+      <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
+      
+      <guid>http://example.org/tags/distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLA&#43;</title>
+      <link>http://example.org/tags/tla&#43;/</link>
+      <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
+      
+      <guid>http://example.org/tags/tla&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://example.org/tags/automation/</link>
+      <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
+      
+      <guid>http://example.org/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Actions</title>
+      <link>http://example.org/tags/github-actions/</link>
+      <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
+      
+      <guid>http://example.org/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure</title>
+      <link>http://example.org/tags/microsoft-azure/</link>
+      <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
+      
+      <guid>http://example.org/tags/microsoft-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://example.org/tags/website/</link>
+      <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
+      
+      <guid>http://example.org/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby</title>
+      <link>http://example.org/tags/gatsby/</link>
+      <pubDate>Sun, 29 Dec 2019 19:46:39 +0000</pubDate>
+      
+      <guid>http://example.org/tags/gatsby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
