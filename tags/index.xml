@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Nibbles and Bytes</title>
-    <link>http://lynshi.github.io/tags/</link>
+    <link>https://lynshi.github.io/tags/</link>
     <description>Recent content in Tags on Nibbles and Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Jul 2023 23:51:51 -0700</lastBuildDate><atom:link href="http://lynshi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 23:51:51 -0700</lastBuildDate><atom:link href="https://lynshi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charity</title>
-      <link>http://lynshi.github.io/tags/charity/</link>
+      <link>https://lynshi.github.io/tags/charity/</link>
       <pubDate>Sat, 22 Jul 2023 23:51:51 -0700</pubDate>
       
-      <guid>http://lynshi.github.io/tags/charity/</guid>
+      <guid>https://lynshi.github.io/tags/charity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recycling</title>
-      <link>http://lynshi.github.io/tags/recycling/</link>
+      <link>https://lynshi.github.io/tags/recycling/</link>
       <pubDate>Sat, 22 Jul 2023 23:51:51 -0700</pubDate>
       
-      <guid>http://lynshi.github.io/tags/recycling/</guid>
+      <guid>https://lynshi.github.io/tags/recycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed systems</title>
-      <link>http://lynshi.github.io/tags/distributed-systems/</link>
+      <link>https://lynshi.github.io/tags/distributed-systems/</link>
       <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
       
-      <guid>http://lynshi.github.io/tags/distributed-systems/</guid>
+      <guid>https://lynshi.github.io/tags/distributed-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TLA&#43;</title>
-      <link>http://lynshi.github.io/tags/tla&#43;/</link>
+      <link>https://lynshi.github.io/tags/tla&#43;/</link>
       <pubDate>Sat, 18 Feb 2023 21:55:07 -0800</pubDate>
       
-      <guid>http://lynshi.github.io/tags/tla&#43;/</guid>
+      <guid>https://lynshi.github.io/tags/tla&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>http://lynshi.github.io/tags/automation/</link>
+      <link>https://lynshi.github.io/tags/automation/</link>
       <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
       
-      <guid>http://lynshi.github.io/tags/automation/</guid>
+      <guid>https://lynshi.github.io/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub Actions</title>
-      <link>http://lynshi.github.io/tags/github-actions/</link>
+      <link>https://lynshi.github.io/tags/github-actions/</link>
       <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
       
-      <guid>http://lynshi.github.io/tags/github-actions/</guid>
+      <guid>https://lynshi.github.io/tags/github-actions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft Azure</title>
-      <link>http://lynshi.github.io/tags/microsoft-azure/</link>
+      <link>https://lynshi.github.io/tags/microsoft-azure/</link>
       <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
       
-      <guid>http://lynshi.github.io/tags/microsoft-azure/</guid>
+      <guid>https://lynshi.github.io/tags/microsoft-azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>http://lynshi.github.io/tags/website/</link>
+      <link>https://lynshi.github.io/tags/website/</link>
       <pubDate>Wed, 01 Jan 2020 04:13:58 +0000</pubDate>
       
-      <guid>http://lynshi.github.io/tags/website/</guid>
+      <guid>https://lynshi.github.io/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gatsby</title>
-      <link>http://lynshi.github.io/tags/gatsby/</link>
+      <link>https://lynshi.github.io/tags/gatsby/</link>
       <pubDate>Sun, 29 Dec 2019 19:46:39 +0000</pubDate>
       
-      <guid>http://lynshi.github.io/tags/gatsby/</guid>
+      <guid>https://lynshi.github.io/tags/gatsby/</guid>
       <description></description>
     </item>
     
