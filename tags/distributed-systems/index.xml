@@ -5,7 +5,16 @@
     <link>https://lynshi.github.io/tags/distributed-systems/</link>
     <description>Recent content in Distributed systems on Nibbles and Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Feb 2023 21:55:07 -0800</lastBuildDate><atom:link href="https://lynshi.github.io/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 21:06:12 -0800</lastBuildDate><atom:link href="https://lynshi.github.io/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gossip Glomers: Intro and Unique ID Generation</title>
+      <link>https://lynshi.github.io/posts/gossip-glomers-intro-and-unique-id-generation/</link>
+      <pubDate>Sun, 26 Nov 2023 21:06:12 -0800</pubDate>
+      
+      <guid>https://lynshi.github.io/posts/gossip-glomers-intro-and-unique-id-generation/</guid>
+      <description>Who knew you could practice implementing distributed systems for fun?</description>
+    </item>
+    
     <item>
       <title>Understanding EWD998: Shmuel Safra&#39;s version of termination detection</title>
       <link>https://lynshi.github.io/posts/understanding-ewd998/</link>
