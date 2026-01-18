@@ -5,7 +5,16 @@
     <link>https://lynshi.github.io/</link>
     <description>Recent content on Nibbles and Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Nov 2023 14:57:01 -0800</lastBuildDate><atom:link href="https://lynshi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 19:04:10 -0800</lastBuildDate><atom:link href="https://lynshi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sortable &#43; Svelte &#43; Tauri: Getting a sortable list right in a cross-platform app</title>
+      <link>https://lynshi.github.io/posts/sortable_svelte_and_tauri/</link>
+      <pubDate>Sat, 17 Jan 2026 19:04:10 -0800</pubDate>
+      
+      <guid>https://lynshi.github.io/posts/sortable_svelte_and_tauri/</guid>
+      <description>AI might be better than a rubber duck</description>
+    </item>
+    
     <item>
       <title>Gossip Glomers 3 (a-c): Single-Node, Multi-Node, and Fault Tolerant Broadcast</title>
       <link>https://lynshi.github.io/posts/gossip-glomers-3ac/</link>
